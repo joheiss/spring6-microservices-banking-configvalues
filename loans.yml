@@ -1,7 +1,7 @@
 build:
     version: "1.0.0"
 
-loans:
+contactInfo:
     message: "Learning how to create microservices - here: loans"
     contact:
         name: "Ludwig Laumann, Loans Developer"
