@@ -2,7 +2,7 @@ build:
     version: "0.7.0"
 
 contactinfo:
-    message: "Learning how to create microservices - here:loans"
+    message: "Learning how to create microservices - here:loans PRODUCTION"
     contact:
         name: "Lilly Logisch, Product Owner"
         email: "lilly@heinzi.de"

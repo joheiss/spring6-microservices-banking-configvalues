@@ -2,7 +2,7 @@ build:
     version: "0.8.0"
 
 contactinfo:
-    message: "Learning how to create microservices - here: cards"
+    message: "Learning how to create microservices - here: cards TEST"
     contact:
         name: "Charlotte Cilla, QA Lead"
         email: "charlotte@heinzi.de"
