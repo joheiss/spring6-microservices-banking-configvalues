@@ -1,7 +1,7 @@
 build:
     version: "0.7.0"
 
-contactInfo:
+contactinfo:
     message: "Learning how to create microservices - here: accounts"
     contact:
         name: "{cipher}f9032236df45cbf50aea136eea3f2a53ca0f2e9ecdc4a35bdeb14f232d47cdd025af02ecc65b16f5abbe5575a5d2fc13"
