@@ -2,7 +2,7 @@ build:
     version: "0.7.0"
 
 contactinfo:
-    message: "*** PROD ===> Learning how to create microservices - here: cards"
+    message: "*** PRODUCTION ===> Learning how to create microservices - here: cards"
     contact:
         name: "Clemens Conto, Product Owner"
         email: "clemens@heinzi.de"
