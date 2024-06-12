@@ -2,7 +2,7 @@ build:
     version: "1.0.0"
 
 contactinfo:
-    message: "Learning how to create microservices - here: loans DEV"
+    message: "*** DEV ===> Learning how to create microservices - here: loans"
     contact:
         name: "Ludwig Laumann, Loans Developer"
         email: "ludwig@heinzi.de"

@@ -2,7 +2,7 @@ build:
     version: "1.0.0"
 
 contactinfo:
-    message: "Learning how to create microservices - here: cards DEV"
+    message: "*** DEV ===> Learning how to create microservices - here: cards"
     contact:
         name: "Carlo Cobol, Cards - Developer"
         email: "carlo@heinzi.de"

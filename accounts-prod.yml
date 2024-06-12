@@ -2,7 +2,7 @@ build:
     version: "0.7.0"
 
 contactinfo:
-    message: "Learning how to create microservices - here: accounts PRODUCTION"
+    message: "*** PROD ===> Learning how to create microservices - here: accounts"
     contact:
         name: "{cipher}f9032236df45cbf50aea136eea3f2a53ca0f2e9ecdc4a35bdeb14f232d47cdd025af02ecc65b16f5abbe5575a5d2fc13"
         email: "{cipher}08f467ecdf6aa9b73fbbbcc032f0023c8159d684a044e65048c49b98380d23831beb12735e00973989f4184763b9d1f7"
