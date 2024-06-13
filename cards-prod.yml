@@ -2,7 +2,7 @@ build:
     version: "0.7.0"
 
 contactinfo:
-    message: "*** PRODUCTION ===> Learning how to create PROFESSIONAL microservices - here: cards"
+    message: "*** PRODUCTION ===> Learn how to create PROFESSIONAL microservices - here: banking cards"
     contact:
         name: "Clemens Conto, Product Owner"
         email: "clemens@heinzi.de"
