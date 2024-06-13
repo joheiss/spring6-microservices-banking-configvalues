@@ -1,8 +1,8 @@
-build:
+Obuild:
     version: "1.0.0"
 
 contactinfo:
-    message: "*** DEFAULT ===> Learning how to create microservices - here: accounts"
+    message: "*** DEFAULT ===> Learning how to create PROFESSIONAL microservices - here: accounts"
     contact:
         name: "Anita Argus, Accounts - Developer"
         email: "anita@heinzi.de"
